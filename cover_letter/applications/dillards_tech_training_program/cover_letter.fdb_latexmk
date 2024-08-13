@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1723568893.00419 "/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter.tex" "cover_letter.pdf" "cover_letter" 1723568893.65712 0
-  "/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter.tex" 1723568892.75237 3163 6c59763a02da688062556aea3f22e14c ""
+["pdflatex"] 1723569642.97695 "/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter.tex" "cover_letter.pdf" "cover_letter" 1723569643.62422 0
+  "/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter.tex" 1723569509.33874 3141 6636f49453aa454ec12ea50f01c2b824 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -31,8 +31,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719032890.59687 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719032842 8221431 05ca1669da752c6854975f50d1a72862 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "cover_letter.aux" 1723568893.61916 160 76e7157c213e206223bc3ec11b318660 "pdflatex"
-  "cover_letter.tex" 1723568892.75237 3163 6c59763a02da688062556aea3f22e14c ""
+  "cover_letter.aux" 1723569643.58654 149 e57ee8be663d832e1581712d9649bd3b "pdflatex"
+  "cover_letter.tex" 1723569509.33874 3141 6636f49453aa454ec12ea50f01c2b824 ""
   "signature.jpg" 1722713868.90766 2077936 2e150ff8e7dfda3c369f208b16270d44 ""
   (generated)
   "cover_letter.aux"
