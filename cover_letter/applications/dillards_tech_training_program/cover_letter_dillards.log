@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.22)  13 AUG 2024 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.22)  13 AUG 2024 13:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter.tex
-(/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter.tex
+**/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter_dillards.tex
+(/Users/raasikh/Documents/Resume/cover_letter/applications/dillards_tech_training_program/cover_letter_dillards.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/letter.cls
@@ -56,8 +56,8 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count192
 \l__pdf_internal_box=\box51
-) (./cover_letter.aux)
-\openout1 = `cover_letter.aux'.
+) (./cover_letter_dillards.aux)
+\openout1 = `cover_letter_dillards.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -150,7 +150,7 @@ Package pdftex.def Info: signature.jpg  used on input line 68.
 (pdftex.def)             Requested size: 87.7494pt x 45.596pt.
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./signature.jpg>] (./cover_letter.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./signature.jpg>] (./cover_letter_dillards.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -158,14 +158,14 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  1783 strings out of 474116
- 29256 string characters out of 5743682
+ 29364 string characters out of 5743682
  1932187 words of memory out of 5000000
  24171 multiletter control sequences out of 15000+600000
  560805 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,278b,206s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,287b,206s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on cover_letter.pdf (1 page, 2100793 bytes).
+Output written on cover_letter_dillards.pdf (1 page, 2100793 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream
