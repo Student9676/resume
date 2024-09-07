@@ -1,0 +1,1 @@
+{"rule":"DETERMINER_GEOGRAPHICAL_WORD","sentence":"^\\QLast semester, I worked at USA Boccia as an iOS App Development Intern.\\E$"}
