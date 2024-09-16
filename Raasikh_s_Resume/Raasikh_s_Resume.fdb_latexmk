@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1725752303.98833 "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" "Raasikh_s_Resume.pdf" "Raasikh_s_Resume" 1725752305.3147 0
-  "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" 1725752303.73027 9201 5a2a423ad094ca003ccca572420a8ed3 ""
+["pdflatex"] 1726498274.97769 "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" "Raasikh_s_Resume.pdf" "Raasikh_s_Resume" 1726498275.91477 0
+  "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" 1726498274.64448 9106 a760da8d01f90620d0e0d7bc05e55321 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -63,7 +63,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def" 1654720880 5009 d242512eef244b70f2fc3fde14419206 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty" 1654720880 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx" 1667332637 2885 9c645d672ae17285bba324998918efd8 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty" 1580250785 17914 4c28a13fc3d975e6e81c9bea1d697276 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty" 1580250785 17914 4c288a13fc3d975e6e81c9bea1d697276 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def" 1705871765 48154 e46bf8adeb936500541441171d61726d ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty" 1705871765 220920 fd3cbb5f1a2bc9b8f451b8b7d8171264 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty" 1705871765 11026 182c63f139a71afd30a28e5f1ed2cd1c ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719032890.59687 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719032842 8221431 05ca1669da752c6854975f50d1a72862 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Raasikh_s_Resume.aux" 1725752305.23432 898 968451f201230ae83cad6dc9299f9b5e "pdflatex"
-  "Raasikh_s_Resume.out" 1725752305.2354 634 13d61686ca48b70b1d66dec968a7e0ef "pdflatex"
-  "Raasikh_s_Resume.tex" 1725752303.73027 9201 5a2a423ad094ca003ccca572420a8ed3 ""
+  "Raasikh_s_Resume.aux" 1726498275.84101 898 968451f201230ae83cad6dc9299f9b5e "pdflatex"
+  "Raasikh_s_Resume.out" 1726498275.84186 634 13d61686ca48b70b1d66dec968a7e0ef "pdflatex"
+  "Raasikh_s_Resume.tex" 1726498274.64448 9106 a760da8d01f90620d0e0d7bc05e55321 ""
   (generated)
   "Raasikh_s_Resume.aux"
   "Raasikh_s_Resume.log"
