@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1731979601.74224 "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" "Raasikh_s_Resume.pdf" "Raasikh_s_Resume" 1731979602.68883 0
-  "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" 1731979601.39572 9854 007d5c1bf6bf1ed4154c23833633fc13 ""
+["pdflatex"] 1736778527.1488 "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" "Raasikh_s_Resume.pdf" "Raasikh_s_Resume" 1736778528.00631 0
+  "/Users/raasikh/Documents/Resume/Raasikh_s_Resume/Raasikh_s_Resume.tex" 1736778526.85842 9848 18a26acf26d0fcc0b52f2a8c7353d98a ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1719032890.59687 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1719032842 8221431 05ca1669da752c6854975f50d1a72862 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Raasikh_s_Resume.aux" 1731979602.61492 789 bb166c320de35e7006f910825f440dec "pdflatex"
-  "Raasikh_s_Resume.out" 1731979602.61574 531 b5c00012119878eed153d4b28f340bfd "pdflatex"
-  "Raasikh_s_Resume.tex" 1731979601.39572 9854 007d5c1bf6bf1ed4154c23833633fc13 ""
+  "Raasikh_s_Resume.aux" 1736778527.93555 789 bb166c320de35e7006f910825f440dec "pdflatex"
+  "Raasikh_s_Resume.out" 1736778527.93635 531 b5c00012119878eed153d4b28f340bfd "pdflatex"
+  "Raasikh_s_Resume.tex" 1736778526.85842 9848 18a26acf26d0fcc0b52f2a8c7353d98a ""
   (generated)
   "Raasikh_s_Resume.aux"
   "Raasikh_s_Resume.log"
