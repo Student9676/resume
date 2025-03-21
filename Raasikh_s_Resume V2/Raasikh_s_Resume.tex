@@ -1,0 +1,266 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+% ----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\myResumeProjectHeading}[3]{
+	\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+      \textit{\small#3} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Raasikh Kanjiani} \\ \vspace{1pt}
+    \small \href{mailto:raasikh.kanjiani@gmail.com}{raasikh.kanjiani@gmail.com} $|$ $+$1 404-428-8533 $|$ 
+    \href{https://github.com/Student9676}{github.com/Student9676} $|$
+    \href{https://linkedin.com/in/raasikhk}{linkedin.com/in/raasikhk}
+  \end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Emory University}{Atlanta, GA}
+      {Bachelor of Science in Computer Science, Minor in Mathematics}{Aug. 2023 -- May 2026}
+        \vspace{0pt}
+
+    \small{\item{
+     \textbf{Relevant Coursework: }{Software Engineering, Database Systems, Graph Machine Learning, Natural Language 
+     Processing, Artificial Intelligence, Machine Learning, Data Structures and Algorithms, 
+     Linear Algebra.} \\
+    }}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Technical Research Intern}{June 2024 -- December 2024}
+      {NSF REU at Emory University}{Atlanta, GA}
+      \resumeItemListStart
+		\resumeItem{Implemented a retrieval system to extract relevant data from a dataset of 700,000+ papers for summarization.}
+		\resumeItem{Adapted recently published models, analyzed 10,000+ lines of code, and  metrics to quantify model performance.}
+      \resumeItemListEnd
+	  \resumeItem{\href{https://arxiv.org/abs/2410.03761}{\textbf{Publication:} Hu, Y., \textbf{Kanjiani, R.}, et al. (2024). HiReview: Hierarchical Taxonomy-Driven Automatic Literature Review Generation.}}
+
+
+    \resumeSubheading
+      {App Development Intern}{Jan. 2024 -- May 2024}
+      {USA Boccia}{Remote}
+      \resumeItemListStart
+        \resumeItem{Built an internationally compliant game-keeping iOS app to streamline 500+ annual Boccia games using Swift.}
+		\resumeItem{Constructed a backend using the Core Data framework to save and restore data of 20,000+ matches.}
+		\resumeItem{Simplified match tracking for 7500+ viewers by designing a scoreboard to be cast onto external displays.}
+      \resumeItemListEnd
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    \resumeSubheading
+      {ArcGIS Mapping Intern}{{Aug. 2022 -- May 2023}}
+      {The State Botanical Garden of Georgia}{Athens, GA}
+      \resumeItemListStart
+        \resumeItem{Automated plotting of 11,047 taxa into an ArcGIS map by devising new data collection and organization methods.}
+        \resumeItem{Decreased data logging time by 95\% by engineering a data pipeline using Python and the OpenPyXL library.}
+		\resumeItem{Supervised a team of three in collecting new field data for 300+ flowers, facilitating the visits of 230,000+ visitors.}    
+		\resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+
+    \myResumeProjectHeading
+    {\href{https://github.com/jacky030214/Emory-CS-370}{\textbf{AI Semester Schedule Builder}} $|$ \emph{React, FastAPI, Python, PostgreSQL, MongoDB}}{January 2025 -- Present}
+        {Product Owner and Full-Stack Developer}
+            \resumeItemListStart
+              \resumeItem{Develop a full-stack web application to help 200+ students build personalized schedules from 4000+ courses.}
+              \resumeItem{Optimize AI scheduling algorithm, reducing runtime by 90\% by only computing similarity for top-k results.}
+            \resumeItemListEnd
+
+    \myResumeProjectHeading
+    {\href{https://github.com/Student9676/carlos-artifact-tagging-bias}{\textbf{Language Bias Remover}} $|$ \emph{Python, PyTorch, React, Django, LangChain}}{June 2024 -- Aug. 2024}
+        {Full-Stack Developer and Researcher}
+            \resumeItemListStart
+              \resumeItem{Fine-tuned Google's BERT model to detect 83\% of all language biases and jargon in public artifact descriptions.}
+              \resumeItem{Created a custom GPT-3.5 chatbot to replace biases with inclusive language in 90\% of public descriptions.}
+              \resumeItem{Developed a full-stack web application using TypeScript to showcase the model to 200+ musuem employees.}
+            \resumeItemListEnd
+
+  %     \myResumeProjectHeading
+	% {\href{https://github.com/Student9676/gt7predictor}{\textbf{Gran Turismo 7 Race Predictor}} $|$ \emph{Python, Swift, Sklearn}}{May 2024 -- June 2024}
+  %         {Personal Project}
+	% 	  \resumeItemListStart
+	% 	  \resumeItem{Training a Naive Bayes classifier to predict final race positions with 70\% accuracy in the Gran Turismo 7 game.}
+	% 	  \resumeItem{Designing a data pipeline to stream live game data from the console to the app every millisecond for predictions.}
+  %         \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+    
+
+
+% %-----------PUBLICATIONS-----------
+% \section{Publications}
+%     \resumeSubHeadingListStart
+%     \small{\item{
+%     % \textbf{}{Zhu, M., Kanjiani, R., Lu, J., Choi, A., Ye, Q., \& Zhao, L. (2024). LatentExplainer: Explaining latent representations in deep generative models with multi-modal foundation models. Paper presented at the Conference on Empirical Methods in Natural Language Processing, Miami, FL. [Submitted]}\\
+% 	 \textbf{}{Zhu, M., Kanjiani, R., Lu, J., Choi, A., Ye, Q., \& Zhao, L. (2024). LatentExplainer: Explaining latent representations in deep generative models with multi-modal foundation models. [Submitted]}
+%     }}
+%     \resumeSubHeadingListEnd
+
+
+%-----------SKILLS-----------
+\section{Skills}
+\resumeSubHeadingListStart
+\small{\item{
+\textbf{Programming Languages: }{Python, Java, SQL, TypeScript, HTML, CSS, Swift, C, R.} \\  
+\textbf{Frameworks/Libraries: }{React.js, Vite, Tailwind, FastAPI, Django, PyTorch, Scikit-learn, PyTest.} \\
+\textbf{Tools/Platforms: }{Git, Google Cloud Platform, PostgreSQL, MongoDB, SQLAlchemy.} \\
+}}
+\resumeSubHeadingListEnd
+
+
+%-----------Leadership-----------
+\section{Leadership}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Student Advising Leader}{Apr. 2023 -- June 2024}
+      {Matriculate}{Remote}
+      \resumeItemListStart
+        \resumeItem{Achieved 20\% higher advisor applications than the previous year through personalized email and SMS outreach.}
+        \resumeItem{Organized workshops and meetings to guide 3 students in writing college essays and applying for financial aid.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Honors and Certifications}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{}{Natonal Science Foundation Grant Recipient, National Name Exchange Member, Presidential Scholar (1 Semester), Dean’s List (1 Semester), International Baccalaureate Diploma Recipient, Honors Diploma Recipient.} \\
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
