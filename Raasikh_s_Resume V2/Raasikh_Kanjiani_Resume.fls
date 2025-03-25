@@ -2,8 +2,8 @@ PWD /Users/raasikh/Documents/Resume/Raasikh_s_Resume V2
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/raasikh/Documents/Resume/Raasikh_s_Resume V2/Raasikh_s_Resume.tex
-OUTPUT Raasikh_s_Resume.log
+INPUT /Users/raasikh/Documents/Resume/Raasikh_s_Resume V2/Raasikh_Kanjiani_Resume.tex
+OUTPUT Raasikh_Kanjiani_Resume.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/size11.clo
@@ -119,21 +119,21 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./Raasikh_s_Resume.aux
-INPUT ./Raasikh_s_Resume.aux
-INPUT Raasikh_s_Resume.aux
-OUTPUT Raasikh_s_Resume.aux
+INPUT ./Raasikh_Kanjiani_Resume.aux
+INPUT ./Raasikh_Kanjiani_Resume.aux
+INPUT Raasikh_Kanjiani_Resume.aux
+OUTPUT Raasikh_Kanjiani_Resume.aux
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT ./Raasikh_s_Resume.out
-INPUT ./Raasikh_s_Resume.out
-INPUT Raasikh_s_Resume.out
-INPUT Raasikh_s_Resume.out
-OUTPUT Raasikh_s_Resume.pdf
-INPUT ./Raasikh_s_Resume.out
-INPUT ./Raasikh_s_Resume.out
-OUTPUT Raasikh_s_Resume.out
+INPUT ./Raasikh_Kanjiani_Resume.out
+INPUT ./Raasikh_Kanjiani_Resume.out
+INPUT Raasikh_Kanjiani_Resume.out
+INPUT Raasikh_Kanjiani_Resume.out
+OUTPUT Raasikh_Kanjiani_Resume.pdf
+INPUT ./Raasikh_Kanjiani_Resume.out
+INPUT ./Raasikh_Kanjiani_Resume.out
+OUTPUT Raasikh_Kanjiani_Resume.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/ulasy.fd
@@ -159,9 +159,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT Raasikh_s_Resume.aux
-INPUT ./Raasikh_s_Resume.out
-INPUT ./Raasikh_s_Resume.out
+INPUT Raasikh_Kanjiani_Resume.aux
+INPUT ./Raasikh_Kanjiani_Resume.out
+INPUT ./Raasikh_Kanjiani_Resume.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb

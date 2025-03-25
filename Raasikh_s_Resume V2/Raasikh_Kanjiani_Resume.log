@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.22)  21 MAR 2025 02:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.22)  25 MAR 2025 13:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/raasikh/Documents/Resume/Raasikh_s_Resume V2/Raasikh_s_Resume.tex"
-(/Users/raasikh/Documents/Resume/Raasikh_s_Resume V2/Raasikh_s_Resume.tex
+**"/Users/raasikh/Documents/Resume/Raasikh_s_Resume V2/Raasikh_Kanjiani_Resume.tex"
+(/Users/raasikh/Documents/Resume/Raasikh_s_Resume V2/Raasikh_Kanjiani_Resume.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -232,8 +232,8 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box55
-) (./Raasikh_s_Resume.aux)
-\openout1 = `Raasikh_s_Resume.aux'.
+) (./Raasikh_Kanjiani_Resume.aux)
+\openout1 = `Raasikh_Kanjiani_Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
 LaTeX Font Info:    ... okay on input line 114.
@@ -268,9 +268,9 @@ LaTeX Font Info:    ... okay on input line 114.
 \everyMPtoPDFconversion=\toks26
 )
 Package hyperref Info: Link coloring OFF on input line 114.
- (./Raasikh_s_Resume.out) (./Raasikh_s_Resume.out)
+ (./Raasikh_Kanjiani_Resume.out) (./Raasikh_Kanjiani_Resume.out)
 \@outlinefile=\write3
-\openout3 = `Raasikh_s_Resume.out'.
+\openout3 = `Raasikh_Kanjiani_Resume.out'.
 
 
 
@@ -299,7 +299,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Raasikh_s_Resume.aux)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Raasikh_Kanjiani_Resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -308,22 +308,22 @@ L3 programming layer <2024-02-20>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Raasikh_s_Resume.out' has not changed.
+Package rerunfilecheck Info: File `Raasikh_Kanjiani_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 39BA6C3E9D4D0E03CC1B98A6CB2A7B9E;604.
  ) 
 Here is how much of TeX's memory you used:
  10588 strings out of 474116
- 166472 string characters out of 5743682
+ 166605 string characters out of 5743682
  1958187 words of memory out of 5000000
  32825 multiletter control sequences out of 15000+600000
  563661 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,389b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,396b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Raasikh_s_Resume.pdf (1 page, 105999 bytes).
+Output written on Raasikh_Kanjiani_Resume.pdf (1 page, 105755 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
